@@ -60,7 +60,7 @@ function Register() {
     }
     return (
     <>
-    <section className='heading'>
+    <section className='heading' >
         <h1 style={{display: 'flex',  justifyContent:'center', alignItems: "center"}}>
             <FaUser/> Register
         </h1>
